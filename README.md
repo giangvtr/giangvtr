@@ -22,11 +22,6 @@
 - Arduino, STM32 (soon)
 - Linux, Bash, Git
 
-## 📫 Reach Me
-- LinkedIn: [your-link]
-- Email: [your-email]
-- Or just clone a repo and drop a friendly issue
-
 ---
 
 Thanks for stopping by. Always building, always curious!
