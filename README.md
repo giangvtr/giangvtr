@@ -1,6 +1,6 @@
 ## Hi there, I'm Giang ! 👋
 
-🎓 I'm currently a student in **Electrical and Industrial Engineering**, with a focus on **embedded systems** and an interest in the crossroad of **robotics**, **software**, and **human-centered tech**.
+🎓 I'm currently a student in **Electronics and Industrial Informatics Engineering**, with a focus on **embedded systems** and an interest in the crossroad of **robotics**, **software**, and **human-centered tech**.
 
 ## 🔧 What I'm Building & Breaking
 - Embedded C projects for microcontrollers 
