@@ -22,6 +22,10 @@
 - Arduino, STM32 (soon)
 - Linux, Bash, Git
 
+## Reach me
+I'm a little shy creature and not showing my full identity just yet.  
+But if you'd like to say hi, clone a repo and drop a friendly issue !
+
 ---
 
 Thanks for stopping by. Always building, always curious!
