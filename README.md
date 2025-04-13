@@ -18,7 +18,7 @@
 - Build things that are both elegant and functional
 
 #### 🛠 Tech Stack & Tools
-- C/C++, Python, Java, SQL
+- C/C++, Python, Java, SQL, Rust (soon)
 - Arduino, STM32 (soon)
 - Linux, Bash, Git
 
