@@ -3,19 +3,14 @@
 🎓 I'm currently a student in **Electronics and Industrial Informatics Engineering**, with a focus on **embedded systems** and an interest in the crossroad of **robotics**, **software**, and **human-centered tech**.
 
 #### 🔧 What I'm Building & Breaking
-- Embedded C projects for microcontrollers 
-- Scripts to automate my Linux life and organize my chaos
+- A C software with UI that controls infrared lights via Arduino
 - I don't know yet, what's next ?
 
 #### 🚀 What I'm Learning
 - Low-level C & memory management without tears
-- **Web Scraping**, because asking websites nicely didn’t work
 - Intro to AI using Python, aiming for applications in Smart embedded systems (like edge AI or low-power vision processing) and Collaborative robotics 
 
-#### 🎯 My Goals
-- Become a solid **embedded software engineer** 🧩  
-- Contribute to projects that help people (healthcare robotics is my soft spot)  
-- Build things that are both elegant and functional
+#### 🎯 My Goals : Become a solid **embedded software engineer** and contribute to projects that help people (healthcare robotics is my soft spot)  
 
 #### 🛠 Tech Stack & Tools
 - C/C++, Python, Java, SQL, Rust (soon)
@@ -23,8 +18,7 @@
 - Linux, Bash, Git
 
 #### 🐚 Reach me
-I'm a little shy creature and not showing my full identity just yet.  
-But if you'd like to say hi, clone a repo and drop a friendly issue !
+I'm a little shy creature and not showing my full identity just yet. But if you'd like to say hi, clone a repo and drop a friendly issue !
 
 ---
 
