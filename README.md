@@ -3,7 +3,7 @@
 🎓 I'm currently a student in **Electronics and Industrial Informatics Engineering**, with a focus on **embedded systems** and an interest in the crossroad of **robotics**, **software**, and **human-centered tech**.
 
 #### 🔧 What I'm Building & Breaking
-- A C software with UI that controls infrared lights via Arduino
+- A software with UI that controls infrared lights via Arduino
 - I don't know yet, what's next ?
 
 #### 🚀 What I'm Learning
