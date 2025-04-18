@@ -13,8 +13,7 @@
 **🎯 My Goals**: Become a solid **embedded software engineer** and contribute to projects that help people (healthcare robotics is my soft spot)  
 
 #### 🛠 Tech Stack & Tools
-- C/C++, Python, Java, SQL, Rust (soon)
-- Arduino, STM32 (soon)
+- C/C++, Python, Java, SQL
 - Linux, Bash, Git
 
 #### 🐚 Reach me
