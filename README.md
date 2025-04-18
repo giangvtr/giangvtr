@@ -8,7 +8,7 @@
 
 #### 🚀 What I'm Learning
 - Low-level C & memory management without tears
-- Intro to AI using Python, aiming for applications in Smart embedded systems (like edge AI or low-power vision processing) and Collaborative robotics 
+- Intro to AI using Python, aiming for applications in Smart embedded systems and Collaborative robotics 
 
 **🎯 My Goals**: Become a solid **embedded software engineer** and contribute to projects that help people (healthcare robotics is my soft spot)  
 
