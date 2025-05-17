@@ -7,15 +7,17 @@
 - I don't know yet, what's next ?
 
 #### 🚀 What I'm Learning
-- Low-level C & memory management without tears
+- Low-level C, applied to robotics on STM32
+- Operating systems and working comfortably in Linux environments
 - Intro to AI using Python, aiming for applications in Smart embedded systems and Collaborative robotics
 
-**🎯 My Goals**: Become a solid **embedded software engineer** and contribute to projects that help people (healthcare robotics is my soft spot)  
+#### 🎯 My Goals
+> Become a solid **embedded software engineer** and contribute to projects that help people (healthcare robotics is my soft spot)  
 
 #### Tech Stacks and Tools : 
-* Programming languages : C/C++, Python, Java
-* SQL, Matlab
-* Git, Linux
+* **Languages**: C, C++, Python, Java, Assembly
+* **Tools**: Git, Linux, SQL, MATLAB
+* **Platforms**: Arduino, STM32
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giangvtr&show_icons=true&locale=en&layout=compact" alt="giangvtr" /></p>
 
