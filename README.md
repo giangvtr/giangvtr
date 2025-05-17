@@ -16,7 +16,7 @@ I'm currently a student in **Electronics and Industrial Informatics Engineering*
 
 #### Tech Stacks and Tools : 
 * **Languages**: C, C++, Python, Java, Assembly, Bash
-* **Tools**: Git, Linux, SQL, MATLAB, OrCAD PSpice, Quartus Prime
+* **Tools**: Git, Linux, SQL, MATLAB/Simulink, OrCAD PSpice, Quartus Prime
 * **Platforms**: Arduino, STM32
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giangvtr&show_icons=true&locale=en&layout=compact" alt="giangvtr" /></p>
