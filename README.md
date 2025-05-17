@@ -15,8 +15,8 @@ I'm currently a student in **Electronics and Industrial Informatics Engineering*
 > Become a solid **embedded software engineer** and contribute to projects that help people (healthcare robotics is my soft spot)  
 
 #### Tech Stacks and Tools : 
-* **Languages**: C, C++, Python, Java, Assembly
-* **Tools**: Git, Linux, SQL, MATLAB
+* **Languages**: C, C++, Python, Java, Assembly, Bash
+* **Tools**: Git, Linux, SQL, MATLAB, OrCAD , Quartus Prime
 * **Platforms**: Arduino, STM32
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giangvtr&show_icons=true&locale=en&layout=compact" alt="giangvtr" /></p>
